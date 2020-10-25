@@ -1,0 +1,10 @@
+
+ Botella de vino   =   Contenedor Verde.
+
+ Caja de pizza   =   Contenedor Azul.
+
+ Cartón de leche   =   Contenedor Amarillo.
+
+ Restos de comida   =   Contenedor Gris.
+
+ Pilas y Baterías   =   Punto Limpio.
